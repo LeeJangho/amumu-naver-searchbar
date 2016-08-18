@@ -1,5 +1,6 @@
 === Amumu Naver Searchbar ===
 Tags: amumu, naver, searchbar
+Contributors: Jangho Lee
 Donate link: http://www.amumu.kr
 Requires at least: 4.0
 Tested up to: 4.6
