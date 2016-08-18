@@ -4,7 +4,7 @@ Donate link: http://www.amumu.kr
 Requires at least: 4.0
 Tested up to: 4.6
 Stable tag: 1.0
-License: GPL v2
+License: GNU v3
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Amumu\'s 플러그인 100개 만들기 - 1
