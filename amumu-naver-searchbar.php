@@ -146,8 +146,9 @@ function amumu_css() {
 		
 		@media screen and (max-width: 782px) {
 			.lnb { width:100%; }
-			#search .green_window { width: 266px; }
-			.btn_arw { left: 250px; }
+			#search .green_window { width: 240px; }
+			#search .input_text { width: 228px; }
+			.btn_arw { left: 215px; }
 		}
 			
 	</style>";
