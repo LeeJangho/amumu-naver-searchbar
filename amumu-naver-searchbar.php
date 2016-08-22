@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Amumu Naver Searchbar
-Plugin URI: http://www.amumu.kr
+Plugin URI: https://wordpress.org/plugins/amumu-naver-searchbar/
 Description: 네이버 검색창을 원하는 위치에 넣는 간단한 플러그인 입니다.
 Author: Amumu
-Version: 1.0
+Version: 1.1
 Author URI: http://www.amumu.kr
 */
 
